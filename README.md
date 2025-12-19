@@ -78,13 +78,15 @@ I build practical, real-world projects that combine **software, automation, data
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuel-poblano&show_icons=true&theme=tokyonight)
+
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-poblano&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: *![LinkedIn](https://www.linkedin.com/in/emanuelpoblano/)*
-- 🌐 Portfolio: *![Portfolio](https://emanuel-poblano.github.io/emanuel-poblano/)*
+- 💼 LinkedIn: ![Emanuel Poblano](https://www.linkedin.com/in/emanuelpoblano/)
+- 🌐 Portfolio: ![Personal Portfolio Website](https://emanuel-poblano.github.io/emanuel-poblano/)
 
 ---
 
